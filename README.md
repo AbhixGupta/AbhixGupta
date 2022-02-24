@@ -29,6 +29,8 @@
 <a href="https://www.hackerearth.com/@abhishekguptageu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhishekguptageu" height="30" width="40" /></a>
 </p>
 
+</br>
+
 ![Abhishek's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhixGupta&theme=dracula)
 
 
