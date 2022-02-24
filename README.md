@@ -1,7 +1,11 @@
-![MasterHead](asset/2.png)
+<!--Header-->
+  <div>
+  <img align="left" alt="GIF" src="./asset/2.png" />
+  
+  </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">A TECHNOPHILE</h3>
+<h3 align="center">DevOps AWS AZURE Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
