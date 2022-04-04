@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhishekguptageu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sDFAM6px0Xp-FHOb59gvD9jCfA3I_yDd/view?usp=sharing](https://drive.google.com/file/d/1sDFAM6px0Xp-FHOb59gvD9jCfA3I_yDd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SK74kkwBdn2pMEnUqYeF6yhRl2YydfLH/view?usp=sharing](https://drive.google.com/file/d/1SK74kkwBdn2pMEnUqYeF6yhRl2YydfLH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
