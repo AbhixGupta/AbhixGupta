@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhishekguptageu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SK74kkwBdn2pMEnUqYeF6yhRl2YydfLH/view?usp=sharing](https://drive.google.com/file/d/1SK74kkwBdn2pMEnUqYeF6yhRl2YydfLH/view?usp=sharing)
+- 📄 Know about my experiences [Visit Now](https://drive.google.com/file/d/1Y0RbJ1ABk26cuw5H98U8AUYmWHkTAi0N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +40,6 @@
 
 <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=radical" alt="AbhixGupta" />
 
-<p><img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" /></p>
+<p><img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbhixGupta&show_icons=true&include_all_commits=true&theme=radical" alt="Abhishek's github stats" /></p>
 
-<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/></p>
+<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhixGupta&theme=tokyonight" alt="AbhixGupta"/></p>
