@@ -1,6 +1,6 @@
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="./asset/2.png"/>
+  <img align="left" alt="GIF" src="./asset/2.png" />
   
   </div>
 
