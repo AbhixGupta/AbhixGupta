@@ -4,8 +4,8 @@
   
   </div>
 
-<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">DevOps AWS AZURE Linux </h3>
+<h1 align="center">Hi 👋, I'm Abhishek Gupta </h1>
+<h3 align="center">DevOps AWS AZURE Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
