@@ -4,7 +4,7 @@
   
   </div>
 
-<h1 align="center">Hi 👋, I'm Abhishek Gupta </h1>
+<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">DevOps AWS AZURE Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
@@ -40,5 +40,6 @@
 <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=radical" alt="AbhixGupta" />
 
 <p><img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbhixGupta&show_icons=true&include_all_commits=true&theme=radical" alt="Abhishek's github stats" /></p>
+
 
 <p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhixGupta&theme=tokyonight" alt="AbhixGupta"/></p>
