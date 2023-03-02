@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhixGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AbhixGupta" /> </p>
 
-- 🔭 I’m currently working on a **DevOps Projects**
+- 🔭 I’m currently working on **DevOps Projects**
 
 - 🌱 I’m currently learning **Terraform, Jenkins, Kubernetes**
 
