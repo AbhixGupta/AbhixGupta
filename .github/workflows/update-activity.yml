@@ -1,4 +1,4 @@
-name: Update GitHub Activity
+  name: Update GitHub Activity
 
   on:
     schedule:
