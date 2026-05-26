@@ -235,12 +235,12 @@ func main() {
 
 <div align="center">
 
-| Certification | Issuer | Year |
-|:-------------:|:------:|:----:|
-| 🔴 **RHCA** (Red Hat Certified Architect) | Red Hat | 2023 |
-| 🔴 **RHCE** (Red Hat Certified Engineer) | Red Hat | 2022 |
-| ☁️ **AWS Solutions Architect** | Amazon Web Services | 2023 |
-| ☸️ **CKA** (Certified Kubernetes Administrator) | CNCF | 2023 |
+| Certification | Issuer |
+|:-------------:|:------:|
+| 🔴 **RHCA** (Red Hat Certified Architect) | Red Hat |
+| 🔴 **RHCE** (Red Hat Certified Engineer) | Red Hat |
+| ☁️ **AWS Solutions Architect** | Amazon Web Services |
+| ☸️ **CKA** (Certified Kubernetes Administrator) | CNCF |
 
 </div>
 
