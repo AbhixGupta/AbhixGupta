@@ -7,7 +7,7 @@ name: Generate Snake Animation
     push:
       branches:
         - main
-  
+
   jobs:
     generate:
       permissions:
@@ -16,7 +16,7 @@ name: Generate Snake Animation
       timeout-minutes: 5
 
       steps:
-        - name: Generate github-contribution-grid-snake.svg
+        - name: Generate snake animation
           uses: Platane/snk@v3
           with:
             github_user_name: AbhixGupta
@@ -25,7 +25,7 @@ name: Generate Snake Animation
               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
               dist/github-contribution-grid-snake-red.svg?color_snake=#ee0000&color_dots=#0d1117,#1a1a1a,#cc0000,#ee0000,#ff0000
 
-        - name: Push to output branch
+        - name: Push snake to output branch
           uses: crazy-max/ghaction-github-pages@v3.1.0
           with:
             target_branch: output
