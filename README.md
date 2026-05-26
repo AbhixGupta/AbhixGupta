@@ -252,11 +252,11 @@ func main() {
 
 ---
 
-### 📝 Latest Blog Posts
+### 📊 Recent GitHub Activity
 
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+1. Loading recent activity...
+<!--END_SECTION:activity-->
 
 ---
 
