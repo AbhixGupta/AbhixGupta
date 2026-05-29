@@ -208,14 +208,20 @@ func main() {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhixGupta&show_icons=true&theme=radical&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true)](https://github.com/AbhixGupta)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=radical&hide_border=true&title_color=EE0000&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css)](https://github.com/AbhixGupta)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbhixGupta&show_icons=true&theme=radical&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=radical&hide_border=true&title_color=EE0000&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbhixGupta&theme=dark&hide_border=true&background=0d1117&stroke=EE0000&ring=EE0000&fire=EE0000&currStreakLabel=EE0000)](https://github.com/AbhixGupta)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbhixGupta&theme=dark&hide_border=true&background=0d1117&stroke=EE0000&ring=EE0000&fire=EE0000&currStreakLabel=EE0000)
+
+</div>
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhixGupta&theme=radical)
 
 </div>
 
@@ -262,11 +268,6 @@ func main() {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhixGupta&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
 
 ---
 
