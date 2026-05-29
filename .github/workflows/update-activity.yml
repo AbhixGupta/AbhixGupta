@@ -20,4 +20,4 @@
           with:
             COMMIT_MSG: 'Update GitHub activity'
             MAX_LINES: 5
-            FILTER_EVENTS: ''
+            FILTER_EVENTS: 'PushEvent,CreateEvent,IssuesEvent,PullRequestEvent,ReleaseEvent'
