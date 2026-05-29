@@ -254,9 +254,8 @@ func main() {
 
 ### 📊 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-1. Loading recent activity...
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
