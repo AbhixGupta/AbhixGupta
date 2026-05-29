@@ -208,14 +208,14 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhixGupta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=EE0000&text_color=c9d1d9&langs_count=8&hide=html,css" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhixGupta&show_icons=true&theme=radical&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true)](https://github.com/AbhixGupta)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhixGupta&layout=compact&theme=radical&hide_border=true&title_color=EE0000&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css)](https://github.com/AbhixGupta)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhixGupta&theme=dark&hide_border=true&background=0d1117&stroke=EE0000&ring=EE0000&fire=EE0000&currStreakLabel=EE0000" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbhixGupta&theme=dark&hide_border=true&background=0d1117&stroke=EE0000&ring=EE0000&fire=EE0000&currStreakLabel=EE0000)](https://github.com/AbhixGupta)
 
 </div>
 
