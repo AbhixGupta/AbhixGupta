@@ -235,12 +235,30 @@ func main() {
 
 <div align="center">
 
+#### 🔴 Red Hat Certifications
+
+| Certification | Badge |
+|:-------------|:-----:|
+| Red Hat Certified Architect (RHCA) | 🎖️ |
+| Red Hat Certified Engineer in Ansible | 🔴 |
+| Red Hat Certified Engineer in Enterprise Linux (RHCE) | 🔴 |
+| Red Hat Certified System Administrator (RHCSA) | 🔴 |
+| Red Hat Certified Specialist in Ceph Cloud Storage | 💾 |
+| Red Hat Certified Specialist in OpenShift Data Foundation | 📦 |
+| Red Hat Certified Specialist in Containers | 🐳 |
+| Red Hat Certified System Administrator in OpenShift | ⚙️ |
+| Red Hat Certified OpenShift Administrator | ☸️ |
+| Red Hat Certified Developer in AI | 🤖 |
+
+#### ☁️ Cloud & Kubernetes Certifications
+
 | Certification | Issuer |
-|:-------------:|:------:|
-| 🔴 **RHCA** (Red Hat Certified Architect) | Red Hat |
-| 🔴 **RHCE** (Red Hat Certified Engineer) | Red Hat |
-| ☁️ **AWS Solutions Architect** | Amazon Web Services |
-| ☸️ **CKA** (Certified Kubernetes Administrator) | CNCF |
+|:-------------|:------:|
+| AWS Certified Solutions Architect Associate | Amazon Web Services |
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| Microsoft Certified: Azure Administrator Associate | Microsoft |
+| Microsoft Certified: DevOps Engineer Expert | Microsoft |
+| Certified Kubernetes Administrator (CKA) | CNCF |
 
 </div>
 
