@@ -4,7 +4,7 @@
     schedule:
       - cron: "0 */6 * * *"
     workflow_dispatch:
-
+  
   permissions:
     contents: write
 
@@ -14,10 +14,10 @@
       steps:
         - uses: actions/checkout@v4
 
-        - uses: jamesgeorge007/github-activity-readme@master
+        - name: Update GitHub Activity
+          uses: Readme-Workflows/recent-activity@v2.6.2
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           with:
             COMMIT_MSG: 'Update GitHub activity'
             MAX_LINES: 5
-            FILTER_EVENTS: 'PushEvent,CreateEvent,IssuesEvent,PullRequestEvent,ReleaseEvent'
