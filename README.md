@@ -274,11 +274,6 @@ func main() {
 ### 📊 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Trishool](https://github.com/AbhixGupta/Trishool)<br>
-2. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Trishool](https://github.com/AbhixGupta/Trishool)<br>
-3. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Trishool](https://github.com/AbhixGupta/Trishool)<br>
-4. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Trishool](https://github.com/AbhixGupta/Trishool)<br>
-5. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Trishool](https://github.com/AbhixGupta/Trishool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
