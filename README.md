@@ -274,8 +274,6 @@ func main() {
 ### 📊 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Samyak](https://github.com/AbhixGupta/Samyak)<br>
-2. ⬆️ Pushed undefined commit(s) to [AbhixGupta/Samyak](https://github.com/AbhixGupta/Samyak)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
